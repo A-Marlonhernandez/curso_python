@@ -1,0 +1,1 @@
+años = int(input("cuantos años tienes:"))
